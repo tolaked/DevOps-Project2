@@ -90,7 +90,7 @@
 - You can now access this page in your web browser by visiting the domain name or public IP address you’ve set up in your Nginx configuration file, followed by /info.php:
   _http://`server_domain_or_IP`/info.php_
 
-  ![Step 5](P2-Step5.png)
+  ![Step 5](<P2-Step5 (1).png>)
 
 # Step 6
 
